@@ -1,10 +1,10 @@
 <h1 align="center">Who am I?</h1>
 <p align="center">Hello I'm Aviral. I code random stuff and there is nothing so special about me...</p>
 
-## Hello, Im Sudhan 👋
+## Hello, Im Aviral 👋
 
 ```js
-const Sudhan = {
+const Aviral = {
     Age: 14,
     Description: "I code random stuff",
     FavouriteLanguage: "Java, Python",
