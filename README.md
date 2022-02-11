@@ -14,7 +14,7 @@ const Aviral = {
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code"]
 }; 
 ```
-<p align="left"> <img src="https://enukzd9vvgki5a6.m.pipedream.net/" alt="magentacreme" /> </p>
+<p align="left"> <img src="https://enukzd9vvgki5a6.m.pipedream.net/" alt="aviraljainnn" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
