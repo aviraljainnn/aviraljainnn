@@ -9,7 +9,7 @@ const Aviral = {
     Description: "I code random stuff",
     FavouriteLanguage: "Java, Python",
     },
-    CreatedAt: "Wed Fev 14 2007",
+    CreatedAt: "Wed Feb 14 2007",
     Stars: Infinite,
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code"]
 }; 
