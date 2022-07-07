@@ -15,7 +15,7 @@ const Aviral = {
 }; 
 ```
 <p align="left"> <img src="https://enukzd9vvgki5a6.m.pipedream.net/" alt="aviraljainnn" /> </p>
-
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faviraljainnn&count_bg=%23FFDD9E&title_bg=%23FFC81F&icon=&icon_color=%23EEE9C4&title=PROFILE+VIEWS&edge_flat=true"/></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
