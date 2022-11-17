@@ -14,9 +14,6 @@ const Aviral = {
     FavouriteThings: ["GitHub <3", "GitHub Copilot", "VS Code"]
 }; 
 ```
-<p align="left"> <img src="https://enukzd9vvgki5a6.m.pipedream.net/" alt="aviraljainnn" /> </p>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2WlwJgsQernYGP75bEE9i7?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/aviral_jainnn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="realmystiq" height="30" width="40" /></a>
